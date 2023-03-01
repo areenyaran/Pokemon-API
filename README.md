@@ -1,2 +1,3 @@
 # Pokemon-API.
-get Pokémon data from PokéAPI and  display the data in EJS template.
+This example  displays information about Pokemon using the PokeAPI.
+It includes an Express server, an EJS view engine, and Axios for making HTTP requests to the PokeAPI.
